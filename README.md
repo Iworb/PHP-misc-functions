@@ -11,7 +11,7 @@ $files = array(
 );
 ```
 to array like that:
-```
+```php
 array(
   "folder1" => array(
     "child1" => array("test.txt")
